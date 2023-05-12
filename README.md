@@ -2,9 +2,10 @@
 ![open-sauced-logo](https://user-images.githubusercontent.com/5713670/189433649-c92cadcc-4c63-4cb9-85a3-b249e45dd28d.png)
 
 Find it the OpenSauced Public Roadmap [here](https://github.com/orgs/open-sauced/projects/7).
+The more detailed version [here](https://github.com/orgs/open-sauced/projects/6/views/7).
 
 Links:
-- [Watched the intro to Open Sauced on YouTube](https://www.youtube.com/watch?v=CKbTdYZAvSM&list=PLHyZ0Wz_A44XSYlBAfO2nBqoYaJJ5fdu5)
+- [Watch the intro to Open Sauced on YouTube](https://www.youtube.com/watch?v=CKbTdYZAvSM&list=PLHyZ0Wz_A44XSYlBAfO2nBqoYaJJ5fdu5)
 - [opensauced.pizza](https://opensauced.pizza)
 - [hot.opensauced.pizza](https://hot.opensauced.pizza)
 - [docs.opensauced.pizza](https://docs.opensauced.pizza)
